@@ -1,113 +1,121 @@
-# 💻 C Programming Mastery (cByDennisRitchie)
+# 💻 C Programming (cByDennisRitchie)
 
-A comprehensive repository documenting my journey of learning and mastering **C programming**, covering everything from fundamentals to advanced system-level concepts.
+A structured repository documenting my journey of learning and mastering **C programming**, covering core concepts from fundamentals to system-level programming.
 
 ## 🚀 Overview
 
-This repository contains **500+ C programs** organized topic-wise, reflecting hands-on practice and deep understanding of core programming concepts.
+This repository contains topic-wise implementations of C programs, focusing on **strong fundamentals, problem-solving, and low-level understanding**.
 
-* 📚 Structured learning approach
-* ⚡ Focus on fundamentals + advanced topics
-* 🧠 Strong emphasis on memory and system-level programming
+* 📚 Clean topic-wise organization
+* ⚡ Hands-on implementations
+* 🧠 Focus on core + advanced concepts
 
-## 📂 Repository Structure
+---
 
-The codebase is organized into well-defined modules:
+## 📂 Topics Covered
 
 ### 🔹 Basics
 
 * Data types, operators, control statements
 * Input/Output (`printf`, `scanf`)
-* Macros & preprocessing
+* Macros and preprocessing
 
 ### 🔹 Pointers
 
 * Pointer arithmetic
 * Double pointers
 * Function pointers
-* Generic pointers
+* Pointer-based problem solving
 
-### 🔹 Data Structures
+### 🔹 Data Structures in C
 
-* Arrays (1D, 2D operations)
+* Arrays (1D & 2D)
 * Linked Lists (Singly, Circular)
 * Stacks (Array & Linked List)
 * Queues (Array & Linked List)
 
-### 🔹 Algorithms
+### 🔹 Algorithms in C
 
+* Searching (Linear Search, Binary Search)
 * Sorting (Bubble, Selection, Insertion)
-* Searching (Linear, Binary)
 
 ### 🔹 Dynamic Memory Allocation
 
 * `malloc`, `calloc`, `realloc`
-* Memory handling techniques
+* Efficient memory handling
 
 ### 🔹 Functions & Recursion
 
+* Modular programming
 * Recursive problem solving
-* Function design and modularity
 
-### 🔹 Strings & File Handling
+### 🔹 Strings
 
 * String manipulation
-* File operations and handling
+* Custom string functions
 
 ### 🔹 Storage Classes
 
 * `auto`, `static`, `extern`, `register`, `typedef`
 
-### 🔹 System Programming (OS Concepts)
+### 🔹 Command Line Arguments
+
+* Argument handling using `argc` and `argv`
+
+### 🔹 Operating Systems (C-based Concepts)
 
 * Process creation (`fork`)
 * Threads and concurrency
 * Signal handling
-* Process lifecycle (zombie/orphan processes)
+* Process lifecycle concepts
 
-### 🔹 Projects
+### 🔹 Structures, Unions & Bitfields
 
-* 🧩 Custom Shell (Kaushell & variants)
-* 🧠 Memory Allocator (Buddy Allocator)
-* 📦 Static & Dynamic Libraries
-* 🔗 Linked List Library Implementation
+* Structured data handling
+* Memory-efficient design using unions and bitfields
+
+---
 
 ## 🛠️ Tech Stack
 
 * Language: **C**
-* Concepts: **DSA, OS, Memory Management, System Programming**
+* Concepts: **DSA, Memory Management, OS Fundamentals**
+
+---
 
 ## 🎯 Key Highlights
 
-* Covers **end-to-end C programming** from basics to advanced
-* Hands-on implementation of **low-level concepts**
-* Includes **real mini-projects** and modular code design
-* Strong focus on **problem-solving and system understanding**
+* Strong foundation in **core C programming**
+* Hands-on implementation of **data structures and algorithms**
+* Exposure to **system-level programming concepts**
+* Organized for **easy navigation and learning**
 
-## 📌 How to Use
+---
 
-* Navigate topic-wise folders
-* Each file demonstrates a specific concept or implementation
-* Compile using:
+## 📌 How to Run
 
-  ```bash
-  gcc filename.c -o output
-  ./output
-  ```
+Compile and execute any program using:
 
-## ⭐ Future Improvements
-
-* Add comments/documentation for each program
-* Organize advanced topics more granularly
-* Add problem statements and expected outputs
+```bash
+gcc filename.c -o output
+./output
+```
 
 ---
 
 ## 📈 Learning Outcome
 
-This repository reflects a strong foundation in:
+This repository reflects:
 
-* Problem-solving using C
-* Data structures and algorithms
-* Memory management
-* System-level programming concepts
+* Deep understanding of **C fundamentals**
+* Strong grip on **pointers and memory management**
+* Practical implementation of **DSA concepts**
+* Exposure to **OS-level programming in C**
+
+---
+
+## ⭐ Future Improvements
+
+* Add comments and explanations
+* Categorize problems by difficulty
+* Add sample inputs/outputs
